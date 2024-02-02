@@ -5,7 +5,7 @@ body {
 
 /* 为一个具有class为"container"的div设置背景色 */
 .container {
-    background-color: #ffffff; /* 白色背景 */
+    background-color: #fff200; /* 白色背景 */
     width: 90%;
     margin: 0 auto;
     padding: 20px;
