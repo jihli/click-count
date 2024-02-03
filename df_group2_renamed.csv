@@ -1,0 +1,43 @@
+,report_date,cookie_id,customer_id,ga_session_id,event_timestamp,Event - Site Search,Event - Search Result,after_event_timestamp,after_event_name,after_event_value,product_sku
+0,2023-12-06,1884972372.1625528,12082,1701882982,2023-12-06 09:16:24,pea protein,exist search result,2023-12-06 09:18:52,Event - After Search Product Click,VITESSENCE™​ Pulse 1550 Pea Protein by Ingredion, 41139-INGREDIONCAN-99999
+1,2023-12-06,1884972372.1625528,12082,1701882982,2023-12-06 09:16:24,pea protein,exist search result,2023-12-06 09:18:57,Event - After Search Product Click,VITESSENCE™​ Pulse 1550 Pea Protein by Ingredion, 41139-INGREDIONCAN-99999
+2,2023-12-06,1884972372.1625528,12082,1701882982,2023-12-06 09:16:24,pea protein,exist search result,2023-12-06 09:19:03,Event - After Search Product Click,VITESSENCE™​ Pulse 1550 Pea Protein by Ingredion, 41139-INGREDIONCAN-99999
+3,2023-12-06,1884972372.1625528,12082,1701882982,2023-12-06 09:16:24,pea protein,exist search result,2023-12-06 09:19:05,Event - After Search Product Click,VITESSENCE™​ Pulse 1550 Pea Protein by Ingredion, 41139-INGREDIONCAN-99999
+4,2023-12-06,1884972372.1625528,12082,1701882982,2023-12-06 09:16:24,pea protein,exist search result,2023-12-06 09:19:59,Event - After Search Product Click,Pea Protein Isolate 80% (Organic) by Yosin, 41125-YOSIN-11806
+5,2023-12-06,1884972372.1625528,12082,1701882982,2023-12-06 09:16:24,pea protein,exist search result,2023-12-06 09:46:11,Event - After Search Product Click,Pea Protein Isolate YW800B by Yuwang Eco., 107968-YUWANG-11618
+6,2023-12-06,1884972372.1625528,12082,1701882982,2023-12-06 09:16:24,pea protein,exist search result,2023-12-06 09:46:38,Event - After Search Product Click,Organic Pea protein 80% Powder by Qimei, 41125-QIMEI-11712
+7,2023-12-06,1884972372.1625528,12082,1701888217,2023-12-06 10:43:39,MCT Oil Powder,exist search result,2023-12-06 10:45:43,Event - After Search Product Click,MCT Oil Powder 70% on Gum Arabic by Connoils, 89419-CONNOILS-99999
+8,2023-12-06,1884972372.1625528,12082,1701888217,2023-12-06 10:43:39,MCT Oil Powder,exist search result,2023-12-06 11:18:39,Event - After Search Product Click,Guar Gum Powder 235F by Neelkanth Polymers, 33760-NEEPO-11573
+9,2023-12-06,1884972372.1625528,12082,1701888217,2023-12-06 10:43:39,MCT Oil Powder,exist search result,2023-12-06 11:19:19,Event - After Search Product Click,Guar Gum Powder 270F by Neelkanth Polymers, 33763-NEEPO-11573
+10,2023-12-06,1884972372.1625528,12082,1701882982,2023-12-06 09:16:24,pea protein,exist search result,2023-12-06 09:16:51,Event - After Search Product Click,Pea Protein Isolate 80% by Yosin, 41121-YOSIN-11806
+11,2023-12-06,1884972372.1625528,12082,1701882982,2023-12-06 09:16:24,pea protein,exist search result,2023-12-06 09:18:13,Event - After Search Product Click,VITESSENCE® Prista P 155 Pea Protein by Ingredion, 41142-INGREDIONCAN-99999
+12,2023-12-06,1884972372.1625528,12082,1701882982,2023-12-06 09:16:24,pea protein,exist search result,2023-12-06 09:48:18,Event - After Search Product Click,Organic Pea protein 80% Powder by Qimei, 41125-QIMEI-11712
+13,2023-12-06,1884972372.1625528,12082,1701882982,2023-12-06 09:16:24,pea protein,exist search result,2023-12-06 09:48:44,Event - After Search Product Click,Pea Starch (Organic) by Yosin, 105994-YOSIN-11806
+14,2023-12-06,1884972372.1625528,12082,1701882982,2023-12-06 09:16:24,pea protein,exist search result,2023-12-06 09:50:18,Event - After Search Product Click,Organic Pea protein 80% Powder by Qimei, 41125-QIMEI-11712
+15,2023-12-06,1884972372.1625528,12082,1701882982,2023-12-06 09:16:24,pea protein,exist search result,2023-12-06 09:50:26,Event - After Search Product Click,Pea Protein Isolate YW800A by Yuwang Eco., 107966-YUWANG-11618
+16,2023-12-06,1884972372.1625528,12082,1701882982,2023-12-06 09:16:24,pea protein,exist search result,2023-12-06 09:53:02,Event - After Search Product Click,Pea Protein Isolate 85% by Yosin, 41122-YOSIN-11806
+17,2023-12-06,1884972372.1625528,12082,1701882982,2023-12-06 09:16:24,pea protein,exist search result,2023-12-06 09:55:27,Event - After Search Product Click,Organic Pea protein 80% Powder by Qimei, 41125-QIMEI-11712
+18,2023-12-06,1884972372.1625528,12082,1701888217,2023-12-06 10:43:39,MCT Oil Powder,exist search result,2023-12-06 10:45:08,Event - After Search Product Click,MCT Oil Powder 70% on Gum Arabic by Connoils, 89419-CONNOILS-99999
+19,2023-12-06,1884972372.1625528,12082,1701888217,2023-12-06 10:43:39,MCT Oil Powder,exist search result,2023-12-06 11:25:49,Event - After Search Product Click,Guar Gum Powder 260F by Neelkanth Polymers, 33762-NEEPO-11573
+20,2023-12-06,1884972372.1625528,12082,1701888217,2023-12-06 11:28:42,soy protein,exist search result,2023-12-06 11:29:00,Event - After Search Product Click,Soy Protein Isolate 90% (YP928C) by Yuwang Eco., 41130-YUWANG-11618
+21,2023-12-06,1884972372.1625528,12082,1701888217,2023-12-06 11:28:42,soy protein,exist search result,2023-12-06 11:29:46,Event - After Search Product Click,Soy Protein Isolate 90% (YP901B) by Yuwang Eco., 41134-YUWANG-11618
+22,2023-12-06,1884972372.1625528,12082,1701888217,2023-12-06 11:28:42,soy protein,exist search result,2023-12-06 11:30:24,Event - After Search Product Click,Soy Protein Isolate 90% (YP928Z) by Yuwang Eco., 41131-YUWANG-11618
+23,2023-12-06,1884972372.1625528,12082,1701888217,2023-12-06 11:28:42,soy protein,exist search result,2023-12-06 11:30:44,Event - After Search Product Click,Soy Protein Isolate 90% (YP928C) by Yuwang Eco., 41130-YUWANG-11618
+24,2023-12-06,1884972372.1625528,12082,1701900357,2023-12-06 14:10:42,cane sugar,exist search result,2023-12-06 14:10:55,Event - After Search Product Click,Organic Cane Sugar by Suzanne's Specialties, 109401-000-11117-66755
+25,2023-12-06,1884972372.1625528,12082,1701900357,2023-12-06 14:10:42,cane sugar,exist search result,2023-12-06 14:14:44,Event - After Search Product Click,Soy Protein Isolate 90% (YP928C) by Yuwang Eco., 41130-YUWANG-11618
+26,2023-12-06,1884972372.1625528,12082,1701900357,2023-12-06 14:10:42,cane sugar,exist search result,2023-12-06 14:16:53,Event - After Search Product Click,Soy Protein Isolate 90% (YP901B) by Yuwang Eco., 41134-YUWANG-11618
+27,2023-12-06,1884972372.1625528,12082,1701900357,2023-12-06 14:10:42,cane sugar,exist search result,2023-12-06 14:17:14,Event - After Search Product Click,Soy Protein Isolate 90% (YP928C) by Yuwang Eco., 41130-YUWANG-11618
+28,2023-12-06,27681654.16853747,12082,1701877345,2023-12-06 07:43:19,organic papaya,exist search result,2023-12-06 07:43:33,Event - After Search Product Click,Carica Papaya Extract 10:1 by TRG, 106864-TRG-11248
+29,2023-12-06,27681654.16853747,12082,1701877345,2023-12-06 07:43:19,organic papaya,exist search result,2023-12-06 07:43:57,Event - After Search Product Click,Papaya Powder by Shandong Lirun Health Technology, 108809-SHALIR-12649
+30,2023-12-06,1884972372.1625528,12082,1701888217,2023-12-06 10:53:14,avocado oil,exist search result,,,,
+31,2023-12-06,1884972372.1625528,12082,1701888217,2023-12-06 11:18:32,guar gum,exist search result,,,,
+32,2023-12-06,1366693949.169178,12082,1701879012,2023-12-06 08:13:03,mcc,exist search result,,,,
+33,2023-12-06,1884972372.1625528,12082,1701874227,2023-12-06 06:50:42,royal jelly pwder,exist search result,,,,
+34,2023-12-06,1884972372.1625528,12082,1701874227,2023-12-06 06:50:55,r,exist search result,,,,
+35,2023-12-06,1884972372.1625528,12082,1701874227,2023-12-06 06:51:11,royal jelly powder,exist search result,,,,
+36,2023-12-06,1884972372.1625528,12082,1701874227,2023-12-06 06:51:53,red maca root,exist search result,,,,
+37,2023-12-06,1884972372.1625528,12082,1701874227,2023-12-06 06:53:20,bee propolis,exist search result,,,,
+38,2023-12-06,1884972372.1625528,12082,1701900357,2023-12-06 14:06:00,resveratrol,exist search result,,,,
+39,2023-12-06,1884972372.1625528,12082,1701903883,2023-12-06 15:04:51,coconut creamer,exist search result,,,,
+40,2023-12-06,1884972372.1625528,12082,1701903883,2023-12-06 15:12:51,coconut creamer,exist search result,,,,
+41,2023-12-06,27681654.16853747,12082,1701877345,2023-12-06 07:42:59,organic papya,exist search result,,,,
