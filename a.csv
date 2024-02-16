@@ -1,0 +1,28 @@
+,report_date_x,cookie_id_x,customer_id,ga_session_id,event_timestamp,event_name,visit_factory,event_timestamp_click,factory_product_click,product_id
+0,2023-12-06,244423632.170124,14499,1701895272,2023-12-06 12:41:56,Event - Visit Factory,Novel Nutrients,2023-12-06 12:42:30,Ashwagandha Extract 10% Withanolides by Gravimetry by Novel Nutrientss, 109684-NOVEL-12874
+1,2023-12-06,244423632.170124,14499,1701901610,2023-12-06 14:35:09,Event - Visit Factory,Qimei Industrial Group,2023-12-06 14:39:55,Allulose by Qimei, 108838-QIMEI-11712
+2,2023-12-06,244423632.170124,14499,1701901610,2023-12-06 14:40:32,Event - Visit Factory,Qimei Industrial Group,,,
+3,2023-12-06,244423632.170124,14499,1701901610,2023-12-06 14:42:10,Event - Visit Factory,Qimei Industrial Group,,,
+4,2023-12-06,244423632.170124,14499,1701904533,2023-12-06 15:17:57,Event - Visit Factory,Qimei Industrial Group,,,
+5,2023-12-06,244423632.170124,14499,1701904533,2023-12-06 15:22:14,Event - Visit Factory,Unicorn Nutrition,,,
+6,2023-12-06,244423632.170124,14499,1701904533,2023-12-06 15:24:19,Event - Visit Factory,JK Botanicals,2023-12-06 15:25:25,Moringa Oleifera Leaf Extract 30% Saponnins by Gravimetry by JK Botanicals, 109047-JKBP-12306
+7,2023-12-06,244423632.170124,14499,1701904533,2023-12-06 15:27:35,Event - Visit Factory,JK Botanicals,2023-12-06 15:27:43,Organic Tribulus Terrestris Powder Steam Treated by JK Botanicals, 109307-JKBP-12306
+8,2023-12-06,244423632.170124,14499,1701904533,2023-12-06 15:28:30,Event - Visit Factory,JK Botanicals,2023-12-06 15:33:07,Tongkat Ali Powder Steam Treated by JK Botanicals, 107097-JKBP-12306
+9,2023-12-06,244423632.170124,14499,1701904533,2023-12-06 15:35:10,Event - Visit Factory,JK Botanicals,2023-12-06 15:35:48,Organic Nigella Sativa Powder Steam Treated by JK Botanicals, 107110-JKBP-12306
+10,2023-12-06,244423632.170124,14499,1701904533,2023-12-06 15:36:23,Event - Visit Factory,JK Botanicals,2023-12-06 15:36:53,Organic Ashwagandha Root Powder Steam Treated by JK Botanicals, 107077-JKBP-12306
+11,2023-12-06,244423632.170124,14499,1701904533,2023-12-06 15:37:43,Event - Visit Factory,JK Botanicals,,,
+12,2023-12-06,244423632.170124,14499,1701904533,2023-12-06 15:56:02,Event - Visit Factory,Connoils,2023-12-06 15:56:20,MCT Oil Powder 50% on Soluble Tapioca Fiber by Connoils, 89423-CONNOILS-99999
+13,2023-12-06,244423632.170124,14499,1701904533,2023-12-06 15:57:11,Event - Visit Factory,Connoils,2023-12-06 15:57:20,MCT Oil Powder 50% on Soluble Tapioca Fiber by Connoils, 89423-CONNOILS-99999
+14,2023-12-06,244423632.170124,14499,1701904533,2023-12-06 15:57:33,Event - Visit Factory,Connoils,2023-12-06 15:59:41,Black Cumin Seed Oil Virgin by Connoils, 99352-CONNOILS-99999
+15,2023-12-06,244423632.170124,14499,1701904533,2023-12-06 16:04:06,Event - Visit Factory,Connoils,,,
+16,2023-12-06,244423632.170124,14499,1701904533,2023-12-06 16:04:17,Event - Visit Factory,Connoils,,,
+17,2023-12-06,244423632.170124,14499,1701904533,2023-12-06 16:04:19,Event - Visit Factory,Connoils,,,
+18,2023-12-06,244423632.170124,14499,1701904533,2023-12-06 16:10:47,Event - Visit Factory,USHA Industries,,,
+19,2023-12-06,244423632.170124,14499,1701904533,2023-12-06 16:18:37,Event - Visit Factory,Hanzhong TRG Biotech,2023-12-06 16:23:01,Polygonum Cuspidatum Extract 10:1 by TRG, 44030-TRG-11248
+20,2023-12-06,244423632.170124,14499,1701904533,2023-12-06 16:23:08,Event - Visit Factory,Hanzhong TRG Biotech,2023-12-06 16:24:12,Horny Goat Weed Extract 10% Flavones by TRG, 38801-TRG-11248
+21,2023-12-06,244423632.170124,14499,1701904533,2023-12-06 16:24:30,Event - Visit Factory,Hanzhong TRG Biotech,2023-12-06 16:24:37,Horny Goat Weed Extract 10% Icariin by TRG, 38802-TRG-11248
+22,2023-12-06,244423632.170124,14499,1701904533,2023-12-06 16:24:53,Event - Visit Factory,Hanzhong TRG Biotech,2023-12-06 16:25:00,Horny Goat Weed Extract 10% Icariin by TRG, 38802-TRG-11248
+23,2023-12-06,244423632.170124,14499,1701904533,2023-12-06 16:25:16,Event - Visit Factory,Hanzhong TRG Biotech,2023-12-06 16:25:20,Horny Goat Weed Extract 10% Flavones by TRG, 38801-TRG-11248
+24,2023-12-06,244423632.170124,14499,1701904533,2023-12-06 16:25:44,Event - Visit Factory,Hanzhong TRG Biotech,2023-12-06 16:26:22,Tribulus Extract 80% Saponins by TRG, 18914-TRG-11248
+25,2023-12-06,244423632.170124,14499,1701904533,2023-12-06 16:27:07,Event - Visit Factory,Hanzhong TRG Biotech,2023-12-06 16:27:33,Horny Goat Weed Extract 10% Icariins by TRG, 38803-TRG-11248
+26,2023-12-06,244423632.170124,14499,1701904533,2023-12-06 16:28:06,Event - Visit Factory,Hanzhong TRG Biotech,,,

@@ -1,0 +1,163 @@
+# ----------------------------------------
+# ingredientsonline.com - GA4
+# Untitled exploration-Free form 1
+# 20231206-20231206
+# ----------------------------------------
+
+customerId,ga_session_id,event_timestamp,Event name,event_value,Event count
+,,,,,154,Grand total
+14499,1701885460,2023/12/06/09/57/40,Event - Menu Click,Branded Ingredients,1
+14499,1701885460,2023/12/06/09/57/42,Event - Session Start,https://www.ingredientsonline.com/branded-ingredients/,1
+14499,1701885460,2023/12/06/09/57/51,Event - Menu Click,Best Selling Products,1
+14499,1701885460,2023/12/06/09/59/15,Event - Menu Click,Promotional Ingredients,1
+14499,1701885460,2023/12/06/10/02/06,Event - Product View,Organic Tart Cherry Extract 10:1 by Hunan Huakang ||| 108928-HNHUAKANG-11283,1
+14499,1701885460,2023/12/06/10/09/49,Event - Search Result,exist search result,1
+14499,1701885460,2023/12/06/10/09/49,Event - Site Search,epimedium,1
+14499,1701885460,2023/12/06/10/11/27,Event - After Search Product Click,Epimedium Icariin 10% by Ingredients by Nature,1
+14499,1701885460,2023/12/06/10/11/27,Event - Product View,Epimedium Icariin 10% by Ingredients by Nature ||| 106714-000-10481-10281,1
+14499,1701885460,2023/12/06/10/13/52,Event - Search Result,exist search result,1
+14499,1701885460,2023/12/06/10/13/52,Event - Site Search,selenium,1
+14499,1701885460,2023/12/06/10/14/20,Event - After Search Product Click,Selenium Yeast Powder 2000ppm by Angel Yeast,1
+14499,1701885460,2023/12/06/10/14/21,Event - Product View,Selenium Yeast Powder 2000ppm by Angel Yeast ||| 43910-ANGEL-11426,1
+14499,1701889077,2023/12/06/10/57/59,Event - Session Start,https://www.ingredientsonline.com/catalogsearch/result/?q=selenium,1
+14499,1701889077,2023/12/06/10/58/29,Event - After Search Product Click,L-Selenomethionine 5000 DCP (Selenium 0.5%) by Stellence Pharmscience Private Limited,1
+14499,1701889077,2023/12/06/10/58/31,Event - Product View,L-Selenomethionine 5000 DCP (Selenium 0.5%) by Stellence Pharmscience Private Limited ||| 69090-STEL,1
+14499,1701889077,2023/12/06/10/59/04,Event - After Search Product Click,L-Selenomethionine 5000 MD (Selenium 0.5%) by Novel Nutrientss,1
+14499,1701889077,2023/12/06/10/59/05,Event - Product View,L-Selenomethionine 5000 MD (Selenium 0.5%) by Novel Nutrientss ||| 69091-NOVEL-12874,1
+14499,1701889077,2023/12/06/11/00/01,Event - After Search Product Click,L-Selenomethionine 5000 DCP (Selenium 0.5%) by Salvi Chemical Industries,1
+14499,1701889077,2023/12/06/11/00/02,Event - Product View,L-Selenomethionine 5000 DCP (Selenium 0.5%) by Salvi Chemical Industries ||| 108785-SALVICI-12685,1
+14499,1701889077,2023/12/06/11/00/19,Event - After Search Product Click,Selenium Yeast Powder 2000ppm by Angel Yeast,1
+14499,1701889077,2023/12/06/11/00/19,Event - Product View,Selenium Yeast Powder 2000ppm by Angel Yeast ||| 43910-ANGEL-11426,1
+14499,1701895272,2023/12/06/12/41/12,Event - After Search Product Click,L-Selenomethionine 5000 MD (Selenium 0.5%) by Novel Nutrientss,1
+14499,1701895272,2023/12/06/12/41/14,Event - Product View,L-Selenomethionine 5000 MD (Selenium 0.5%) by Novel Nutrientss ||| 69091-NOVEL-12874,1
+14499,1701895272,2023/12/06/12/41/56,Event - Session Start,https://www.ingredientsonline.com/factory/novel_nutrients/,1
+14499,1701895272,2023/12/06/12/41/56,Event - Visit Factory,Novel Nutrients,1
+14499,1701895272,2023/12/06/12/42/30,Event - Factory Product Click,Ashwagandha Extract 10% Withanolides by Gravimetry by Novel Nutrientss,1
+14499,1701895272,2023/12/06/12/42/31,Event - Product View,Ashwagandha Extract 10% Withanolides by Gravimetry by Novel Nutrientss ||| 109684-NOVEL-12874,1
+14499,1701901610,2023/12/06/14/26/50,Event - Cart Icon Click,click_cart_icon,1
+14499,1701901610,2023/12/06/14/26/53,Event - Session Start,https://www.ingredientsonline.com/cart/,1
+14499,1701901610,2023/12/06/14/27/25,Event - Search Result,exist search result,1
+14499,1701901610,2023/12/06/14/27/25,Event - Site Search,selenium,1
+14499,1701901610,2023/12/06/14/27/35,Event - After Search Product Click,L-Selenomethionine 5000 MD (Selenium 0.5%) by Novel Nutrientss,1
+14499,1701901610,2023/12/06/14/27/36,Event - Product View,L-Selenomethionine 5000 MD (Selenium 0.5%) by Novel Nutrientss ||| 69091-NOVEL-12874,1
+14499,1701901610,2023/12/06/14/28/11,Event - After Search Product Click,L-Selenomethionine 5000 DCP (Selenium 0.5%) by Stellence Pharmscience Private Limited,1
+14499,1701901610,2023/12/06/14/28/13,Event - Product View,L-Selenomethionine 5000 DCP (Selenium 0.5%) by Stellence Pharmscience Private Limited ||| 69090-STEL,1
+14499,1701901610,2023/12/06/14/28/32,Event - After Search Product Click,Selenium Glycinate by Aobo,1
+14499,1701901610,2023/12/06/14/28/33,Event - Product View,Selenium Glycinate by Aobo ||| 106824-AOBO-11080,1
+14499,1701901610,2023/12/06/14/29/23,Event - After Search Product Click,L-Selenomethionine 5000 DCP (Selenium 0.5%) by Salvi,1
+14499,1701901610,2023/12/06/14/29/24,Event - Product View,L-Selenomethionine 5000 DCP (Selenium 0.5%) by Salvi ||| 69090-SALVICI-99999,1
+14499,1701901610,2023/12/06/14/30/38,Event - Search Result,exist search result,1
+14499,1701901610,2023/12/06/14/30/38,Event - Site Search,tribulus,1
+14499,1701901610,2023/12/06/14/31/31,Event - After Search Product Click,Tribulus Extract 95% Saponins by TRG,1
+14499,1701901610,2023/12/06/14/31/32,Event - Product View,Tribulus Extract 95% Saponins by TRG ||| 18912-TRG-11248,1
+14499,1701901610,2023/12/06/14/32/34,Event - Search Result,exist search result,1
+14499,1701901610,2023/12/06/14/32/34,Event - Site Search,epimedium,1
+14499,1701901610,2023/12/06/14/33/17,Event - After Search Product Click,Organic Epimedium Leaf Powder,1
+14499,1701901610,2023/12/06/14/33/18,Event - Product View,Organic Epimedium Leaf Powder (BRC Certified Factory) by Qimei ||| 38809-QIMEI-11712,1
+14499,1701901610,2023/12/06/14/35/09,Event - Visit Factory,Qimei Industrial Group,1
+14499,1701901610,2023/12/06/14/39/55,Event - Factory Product Click,Allulose by Qimei,1
+14499,1701901610,2023/12/06/14/39/57,Event - Product View,Allulose by Qimei ||| 108838-QIMEI-11712,1
+14499,1701901610,2023/12/06/14/40/32,Event - Visit Factory,Qimei Industrial Group,1
+14499,1701901610,2023/12/06/14/42/10,Event - Visit Factory,Qimei Industrial Group,1
+14499,1701904533,2023/12/06/15/17/02,Event - Factory Product Click,Organic Red Beet Root Powder by Qimei,1
+14499,1701904533,2023/12/06/15/17/03,Event - Product View,Organic Red Beet Root Powder by Qimei ||| 16225-QIMEI-11712,1
+14499,1701904533,2023/12/06/15/17/57,Event - Session Start,https://www.ingredientsonline.com/factory/qimei_industrial_group/?page=4&slug=qimei_industrial_group,1
+14499,1701904533,2023/12/06/15/17/57,Event - Visit Factory,Qimei Industrial Group,1
+14499,1701904533,2023/12/06/15/19/17,Event - Search Result,exist search result,1
+14499,1701904533,2023/12/06/15/19/17,Event - Site Search,organic,1
+14499,1701904533,2023/12/06/15/21/19,Event - After Search Product Click,Organic Ashwagandha Root Powder by Unicorn,1
+14499,1701904533,2023/12/06/15/21/20,Event - Product View,Organic Ashwagandha Root Powder by Unicorn ||| 93802-UNICORNNTT-11782,1
+14499,1701904533,2023/12/06/15/22/14,Event - Visit Factory,Unicorn Nutrition,1
+14499,1701904533,2023/12/06/15/23/32,Event - After Search Product Click,Organic Ashwagandha Root Powder Steam Treated by JK Botanicals,1
+14499,1701904533,2023/12/06/15/23/33,Event - Product View,Organic Ashwagandha Root Powder Steam Treated by JK Botanicals ||| 107077-JKBP-12306,1
+14499,1701904533,2023/12/06/15/24/19,Event - Visit Factory,JK Botanicals,1
+14499,1701904533,2023/12/06/15/25/25,Event - Factory Product Click,Moringa Oleifera Leaf Extract 30% Saponnins by Gravimetry by JK Botanicals,1
+14499,1701904533,2023/12/06/15/25/26,Event - Product View,Moringa Oleifera Leaf Extract 30% Saponnins by Gravimetry by JK Botanicals ||| 109047-JKBP-12306,1
+14499,1701904533,2023/12/06/15/27/35,Event - Visit Factory,JK Botanicals,1
+14499,1701904533,2023/12/06/15/27/43,Event - Factory Product Click,Organic Tribulus Terrestris Powder Steam Treated by JK Botanicals,1
+14499,1701904533,2023/12/06/15/27/44,Event - Product View,Organic Tribulus Terrestris Powder Steam Treated by JK Botanicals ||| 109307-JKBP-12306,1
+14499,1701904533,2023/12/06/15/28/30,Event - Visit Factory,JK Botanicals,1
+14499,1701904533,2023/12/06/15/33/07,Event - Factory Product Click,Tongkat Ali Powder Steam Treated by JK Botanicals,1
+14499,1701904533,2023/12/06/15/33/09,Event - Product View,Tongkat Ali Powder Steam Treated by JK Botanicals ||| 107097-JKBP-12306,1
+14499,1701904533,2023/12/06/15/35/10,Event - Visit Factory,JK Botanicals,1
+14499,1701904533,2023/12/06/15/35/48,Event - Factory Product Click,Organic Nigella Sativa Powder Steam Treated by JK Botanicals,1
+14499,1701904533,2023/12/06/15/35/49,Event - Product View,Organic Nigella Sativa Powder Steam Treated by JK Botanicals ||| 107110-JKBP-12306,1
+14499,1701904533,2023/12/06/15/36/23,Event - Visit Factory,JK Botanicals,1
+14499,1701904533,2023/12/06/15/36/53,Event - Factory Product Click,Organic Ashwagandha Root Powder Steam Treated by JK Botanicals,1
+14499,1701904533,2023/12/06/15/36/54,Event - Product View,Organic Ashwagandha Root Powder Steam Treated by JK Botanicals ||| 107077-JKBP-12306,1
+14499,1701904533,2023/12/06/15/37/43,Event - Visit Factory,JK Botanicals,1
+14499,1701904533,2023/12/06/15/37/55,Event - Menu Click,Promotional Ingredients,1
+14499,1701904533,2023/12/06/15/38/28,Event - Product View,Tongkat Ali Extract 1% Eurycomanone by Heking ||| 109852-CSHEKING-12329,1
+14499,1701904533,2023/12/06/15/40/05,Event - Product View,Valerian Root Extract  10:1 by Heking ||| 109733-CSHEKING-12329,1
+14499,1701904533,2023/12/06/15/41/43,Event - Product View,Tongkat Ali Root Extract 200:1 by TRG ||| 109258-TRG-11248,1
+14499,1701904533,2023/12/06/15/55/23,Event - Product View,"Multi Collagen Blend-No HA Types I, II, III, V, X by Connoils ||| 25983-CONNOILS-99999",1
+14499,1701904533,2023/12/06/15/55/49,Event - Session Start,https://www.ingredientsonline.com/promotions-products-on-sale/?page=9&size=20,1
+14499,1701904533,2023/12/06/15/56/02,Event - Visit Factory,Connoils,1
+14499,1701904533,2023/12/06/15/56/20,Event - Factory Product Click,MCT Oil Powder 50% on Soluble Tapioca Fiber by Connoils,1
+14499,1701904533,2023/12/06/15/56/21,Event - Product View,MCT Oil Powder 50% on Soluble Tapioca Fiber by Connoils ||| 89423-CONNOILS-99999,1
+14499,1701904533,2023/12/06/15/57/11,Event - Visit Factory,Connoils,1
+14499,1701904533,2023/12/06/15/57/20,Event - Factory Product Click,MCT Oil Powder 50% on Soluble Tapioca Fiber by Connoils,1
+14499,1701904533,2023/12/06/15/57/20,Event - Product View,MCT Oil Powder 50% on Soluble Tapioca Fiber by Connoils ||| 89423-CONNOILS-99999,1
+14499,1701904533,2023/12/06/15/57/33,Event - Visit Factory,Connoils,1
+14499,1701904533,2023/12/06/15/59/41,Event - Factory Product Click,Black Cumin Seed Oil Virgin by Connoils,1
+14499,1701904533,2023/12/06/15/59/43,Event - Product View,Black Cumin Seed Oil Virgin by Connoils ||| 99352-CONNOILS-99999,1
+14499,1701904533,2023/12/06/16/04/06,Event - Visit Factory,Connoils,1
+14499,1701904533,2023/12/06/16/04/17,Event - Visit Factory,Connoils,1
+14499,1701904533,2023/12/06/16/04/19,Event - Visit Factory,Connoils,1
+14499,1701904533,2023/12/06/16/05/30,Event - Cart Icon Click,click_cart_icon,1
+14499,1701904533,2023/12/06/16/08/27,Event - Product View,Betaine Anhydrous by Jinan Jiuan ||| 80600-JIUAN-11231,1
+14499,1701904533,2023/12/06/16/09/54,Event - Product View,Betaine Anhydrous by Aocter ||| 80600-AOCTER-99999,1
+14499,1701904533,2023/12/06/16/10/31,Event - Product View,Glycine by Usha Industries ||| 109504-USHA-12685,1
+14499,1701904533,2023/12/06/16/10/47,Event - Visit Factory,USHA Industries,1
+14499,1701904533,2023/12/06/16/16/47,Event - Cart Icon Click,click_cart_icon,1
+14499,1701904533,2023/12/06/16/17/21,Event - Search Result,exist search result,1
+14499,1701904533,2023/12/06/16/17/21,Event - Site Search,epimedium,1
+14499,1701904533,2023/12/06/16/18/17,Event - After Search Product Click,Horny Goat Weed Extract 10% Flavones by TRG,1
+14499,1701904533,2023/12/06/16/18/18,Event - Product View,Horny Goat Weed Extract 10% Flavones by TRG ||| 38801-TRG-11248,1
+14499,1701904533,2023/12/06/16/18/37,Event - Visit Factory,Hanzhong TRG Biotech,1
+14499,1701904533,2023/12/06/16/23/01,Event - Factory Product Click,Polygonum Cuspidatum Extract 10:1 by TRG,1
+14499,1701904533,2023/12/06/16/23/02,Event - Product View,Polygonum Cuspidatum Extract 10:1 by TRG ||| 44030-TRG-11248,1
+14499,1701904533,2023/12/06/16/23/08,Event - Visit Factory,Hanzhong TRG Biotech,1
+14499,1701904533,2023/12/06/16/24/12,Event - Factory Product Click,Horny Goat Weed Extract 10% Flavones by TRG,1
+14499,1701904533,2023/12/06/16/24/13,Event - Product View,Horny Goat Weed Extract 10% Flavones by TRG ||| 38801-TRG-11248,1
+14499,1701904533,2023/12/06/16/24/30,Event - Visit Factory,Hanzhong TRG Biotech,1
+14499,1701904533,2023/12/06/16/24/37,Event - Factory Product Click,Horny Goat Weed Extract 10% Icariin by TRG,1
+14499,1701904533,2023/12/06/16/24/38,Event - Product View,Horny Goat Weed Extract 10% Icariin by TRG ||| 38802-TRG-11248,1
+14499,1701904533,2023/12/06/16/24/53,Event - Visit Factory,Hanzhong TRG Biotech,1
+14499,1701904533,2023/12/06/16/25/00,Event - Factory Product Click,Horny Goat Weed Extract 10% Icariin by TRG,1
+14499,1701904533,2023/12/06/16/25/01,Event - Product View,Horny Goat Weed Extract 10% Icariin by TRG ||| 38802-TRG-11248,1
+14499,1701904533,2023/12/06/16/25/16,Event - Visit Factory,Hanzhong TRG Biotech,1
+14499,1701904533,2023/12/06/16/25/20,Event - Factory Product Click,Horny Goat Weed Extract 10% Flavones by TRG,1
+14499,1701904533,2023/12/06/16/25/21,Event - Product View,Horny Goat Weed Extract 10% Flavones by TRG ||| 38801-TRG-11248,1
+14499,1701904533,2023/12/06/16/25/44,Event - Visit Factory,Hanzhong TRG Biotech,1
+14499,1701904533,2023/12/06/16/26/22,Event - Factory Product Click,Tribulus Extract 80% Saponins by TRG,1
+14499,1701904533,2023/12/06/16/26/23,Event - Product View,Tribulus Extract 80% Saponins by TRG ||| 18914-TRG-11248,1
+14499,1701904533,2023/12/06/16/27/07,Event - Session Start,https://www.ingredientsonline.com/factory/hanzhong_trg_biotech/?page=3&slug=hanzhong_trg_biotech&siz,1
+14499,1701904533,2023/12/06/16/27/07,Event - Visit Factory,Hanzhong TRG Biotech,1
+14499,1701904533,2023/12/06/16/27/33,Event - Factory Product Click,Horny Goat Weed Extract 10% Icariins by TRG,1
+14499,1701904533,2023/12/06/16/27/34,Event - Product View,Horny Goat Weed Extract 10% Icariins by TRG ||| 38803-TRG-11248,1
+14499,1701904533,2023/12/06/16/28/06,Event - Visit Factory,Hanzhong TRG Biotech,1
+14499,1701904533,2023/12/06/16/28/20,Event - Cart Icon Click,click_cart_icon,1
+14499,1701904533,2023/12/06/16/32/38,Event - Product View,Selenium Yeast Powder 2000ppm by Angel Yeast ||| 43910-ANGEL-11426,1
+14499,1701904533,2023/12/06/16/33/30,Event - Product View,Allulose by Qimei ||| 108838-QIMEI-11712,1
+14499,1701904533,2023/12/06/16/35/16,Event - Product View,Organic Red Beet Root Powder by Qimei ||| 16225-QIMEI-11712,1
+14499,1701904533,2023/12/06/16/36/10,Event - Cart Icon Click,click_cart_icon,1
+14499,1701904533,2023/12/06/16/38/02,Event - Search Result,exist search result,1
+14499,1701904533,2023/12/06/16/38/02,Event - Site Search,tongkat,1
+14499,1701904533,2023/12/06/16/38/06,Event - After Search Product Click,Tongkat Ali P.E. 200:1 by TRG,1
+14499,1701904533,2023/12/06/16/38/07,Event - Product View,Tongkat Ali Root Extract 200:1 by TRG ||| 109258-TRG-11248,1
+14499,1701904533,2023/12/06/16/39/16,Event - Cart Icon Click,click_cart_icon,1
+14499,1701904533,2023/12/06/16/40/03,Event - Cart Icon Click,click_cart_icon,1
+14499,1701904533,2023/12/06/16/40/42,Event - Product View,Horny Goat Weed Extract 10% Icariin by TRG ||| 38802-TRG-11248,1
+14499,1701904533,2023/12/06/16/40/57,Event - Search Result,exist search result,1
+14499,1701904533,2023/12/06/16/40/57,Event - Site Search,horny,1
+14499,1701904533,2023/12/06/16/41/34,Event - After Search Product Click,Horny Goat Weed Extract 10% Icariins by TRG,1
+14499,1701904533,2023/12/06/16/41/35,Event - Product View,Horny Goat Weed Extract 10% Icariins by TRG ||| 38803-TRG-11248,1
+14499,1701904533,2023/12/06/16/42/59,Event - After Search Product Click,Horny Goat Weed Extract 10% Icariin by TRG,1
+14499,1701904533,2023/12/06/16/43/00,Event - Product View,Horny Goat Weed Extract 10% Icariin by TRG ||| 38802-TRG-11248,1
+14499,1701904533,2023/12/06/16/43/18,Event - After Search Product Click,Epimedium Extract 10% Icariin by Heking,1
+14499,1701904533,2023/12/06/16/43/19,Event - Product View,Epimedium Extract 10% Icariin by Heking ||| 107898-CSHEKING-12329,1
+14499,1701904533,2023/12/06/16/44/24,Event - Cart Icon Click,click_cart_icon,1
+14499,1701904533,2023/12/06/16/44/54,Event - Begin Checkout,cart_begin_checkout,1
+14499,1701912519,2023/12/06/17/28/40,Event - Session Start,https://www.ingredientsonline.com/account/order-history/,1
+
